@@ -1,2 +1,28 @@
+.main{
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+}
+
+p{
+  text-align: justify;
+}
+
+hr{
+  border-top: 3px solid #424242;
+  border-radius: 5px;
+}
+
+img{
+  width: 160px;
+}
+
 .profile{
+  display: flex;
+  align-items: center;
+}
+
+.info{
+  margin-left: 30px;
 }
